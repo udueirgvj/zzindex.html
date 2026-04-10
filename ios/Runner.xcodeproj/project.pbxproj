@@ -1,0 +1,25 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+		97C146E61CF9000F007C117D = {
+			isa = PBXGroup;
+			children = (
+				9740EEB11CF90186004384FC,
+			);
+			name = Flutter;
+			sourceTree = "<group>";
+		};
+		9740EEB11CF90186004384FC = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192;
+}
