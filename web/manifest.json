@@ -1,0 +1,12 @@
+{
+    "name": "تيرمين",
+    "short_name": "termeen",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#17212B",
+    "theme_color": "#17212B",
+    "description": "تيرمين - تطبيق المراسلة",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
