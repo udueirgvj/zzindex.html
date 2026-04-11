@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532770652661",
+    "firebase_url": "https://tygggfs-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tygggfs",
+    "storage_bucket": "tygggfs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532770652661:android:3c60854aeee07338cf60bc",
+        "android_client_info": {
+          "package_name": "widget_test.dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532770652661-ssqvhl438lj8qa9mb1tmb41vkj0e2i03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oBXZmbBJ47dhJ88XRFc-7gPNrYnNqpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532770652661-ssqvhl438lj8qa9mb1tmb41vkj0e2i03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
